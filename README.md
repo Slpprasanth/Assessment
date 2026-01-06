@@ -10,9 +10,9 @@ This is a one-page application where users can enter items one at a time and vie
 - Focus on clarity and assessment requirements
 
 ## Technology Stack
-- React Native
-- Node.js
-- Express.js
+- React Native – Frontend UI
+- Node.js – Backend runtime
+- Express.js – REST API framework
 
 ## Project Structure
 backend/
@@ -26,6 +26,3 @@ README.md
 - Clicks Add button
 - Item appears in a numbered list below a title
 
-## Note
-Node.js is not installed locally.
-The code can be executed in GitHub Codespaces or any Node.js environment.
